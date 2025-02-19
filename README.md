@@ -9,7 +9,7 @@
 - .aia
 
  
-![i1](.i1.png)
+![i1](.i1.PNG)
 ![i2](.i2.png)
 ![i3](.i3.png)
 ![i4](.i4.png)
