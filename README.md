@@ -9,7 +9,6 @@
 - .aia
 
  
-![i1](.i1.PNG)
 ![i2](.i2.png)
 ![i3](.i3.png)
 ![i4](.i4.png)
@@ -21,3 +20,4 @@
 ![i10](.i10.png)
 ![i11](.i12.png)
 ![i12](.i12.png)
+![i1](https://github.com/user-attachments/assets/129b4cc6-6055-453f-9029-7d09180635e7)
