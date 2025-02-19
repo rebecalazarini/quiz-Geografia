@@ -8,8 +8,7 @@
 - .apk
 - .aia
 
-# Feedback da Professora Carol de geografia:
-- Gostei muito do quiz, bem interativo, com imagens legais, perguntas dinâmicas e bem estruturado.
+
 
 # Imagens das telas
 
