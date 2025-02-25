@@ -8,7 +8,8 @@
 - .apk
 - .aia
 
-
+## Feedback da professrora Carol de grografia
+- Muito legal, intuitivo, dinâmico e as perguntas um pouco dificeis. nota: 9/10
 
 # Imagens das telas
 
